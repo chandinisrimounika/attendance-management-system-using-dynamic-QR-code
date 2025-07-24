@@ -62,10 +62,23 @@ To build the project for production:
 npm run build
 ```
 
-## Customization
+## Screenshots
 
-You can customize the application by modifying the source files in the `src` directory.
+Register page: (Student) 
+<img width="1218" height="484" alt="image" src="https://github.com/user-attachments/assets/c7669d48-9fc3-473a-9b0b-a507ee341435" />
 
-## License
+Dashboard: (Admin)
+<img width="1218" height="484" alt="image" src="https://github.com/user-attachments/assets/59dfdcce-3172-4dfd-b38a-7f513cfa1c56" />
 
-[Add your license information here]
+QR Generation: (Admin)  
+<img width="1253" height="534" alt="image" src="https://github.com/user-attachments/assets/78cc6886-dabe-4e5e-b91b-7c9fd07736e2" />
+
+ **Note:**  
+ Make sure you have the following prerequisites installed before running the project:
+ - [Node.js](https://nodejs.org/) (v16 or later)
+ - npm (comes with Node.js)
+ - [Docker](https://www.docker.com/) – for containerized deployment (optional)
+ - [Git](https://git-scm.com/) – to clone and manage the repository
+
+ ✅ Recommended: Use [Visual Studio Code](https://code.visualstudio.com/) for development and [Postman](https://www.postman.com/) for API testing.
+
